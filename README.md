@@ -15,11 +15,11 @@ Create a HTML page with your name as the title which should have the same functi
 	<li> Push all changes to your copy of the assignment repo</li>
 	<li> <b> The deadline is 11:59 PM, 7th June, 2021 </b></li>
 </ol>
-### General instructions:
+<h3>General instructions:</h3>
 <ol>
 	<li>Even though you can go through the source code if you are stuck, I expect you guys to not copy it directly.</li>
 	<li>We will look at your coding style also. So try to make the code as neat, clean, understandable and modular as possible.</li>
 	<li>The deadline for the assignment is 7th June 11:59 pm.</li>
 
 </ol>
-#### Note: As mentioned earlier we will have a break after this till your endsems get over. Best of Luck!!
+<h4>Note: As mentioned earlier we will have a break after this till your endsems get over. Best of Luck!!</h4>
